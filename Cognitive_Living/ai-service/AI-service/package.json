@@ -1,0 +1,16 @@
+{
+  "name": "ai-service",
+  "version": "1.0.0",
+  "description": "AI Service for the FHEM project (SUSIT)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carl Kugblenu",
+  "license": "MIT",
+  "dependencies": {
+    "brain": "^0.7.0",
+    "express": "^4.15.2",
+    "node-mind": "^0.2.1"
+  }
+}
